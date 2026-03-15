@@ -1,3 +1,46 @@
+##Project Description
+
+The Random Counter is a simple React application that generates a random number between 0 and 100 when the user clicks the Generate button. The generated number is displayed on the screen and updates every time the button is pressed.
+
+This project demonstrates the use of React class components, state management, event handling, and JavaScript random number generation. It is a beginner-friendly project useful for understanding how React updates UI dynamically based on state changes. 
+
+##Features
+
+Generates a random number between 0 and 100
+
+Displays the generated number instantly
+
+Interactive button to generate a new random number
+
+Uses React state to update the UI dynamically
+
+Simple and clean user interface 
+
+##Technologies Used
+
+React JS
+
+JavaScript (ES6)
+
+HTML5
+
+CSS3 
+
+##Installation Steps
+
+1. Clone the repository git clone https://github.com/PANJAMYNASAIRAM/Random-Number-Generator.git
+2. Go to project folder "cd Random-Number-Generator"
+3. Install dependencies "npm install"
+4. Start the project "npm start"
+Live Demo
+
+https://PANJAMYNASAIRAM.github.io/Random-Number-Generator
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
